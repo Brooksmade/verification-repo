@@ -1,1 +1,3 @@
-IyBWZXJpZmljYXRpb24gUmVwb3NpdG9yeQoKVGhpcyByZXBvc2l0b3J5IHdhcyBjcmVhdGVkIHRvIHZlcmlmeSBHaXRIdWIgYWNjZXNzIGZ1bmN0aW9uYWxpdHku
+# Verification Repository
+
+This repository was created to verify GitHub access functionality.
